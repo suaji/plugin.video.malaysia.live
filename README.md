@@ -1,2 +1,2 @@
 # plugin.video.malaysia.live
-Tonton LIVE Malaysia TV
+Tonton LIVE TV Malaysia
