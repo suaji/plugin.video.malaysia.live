@@ -112,7 +112,19 @@ http://www.layarku.tv/media/ceriav6.m3u8
 http://www.layarku.tv/media/awaniv6.m3u8
 
 #EXTINF:-1,ASTRO Arena
+http://www.layarku.tv/media/arenav4.m3u8
+
+#EXTINF:-1,ASTRO Arena 1
+http://www.layarku.tv/media/arenav5.m3u8
+
+#EXTINF:-1,ASTRO Arena 2
 http://www.layarku.tv/media/arenav6.m3u8
+
+#EXTINF:-1,ASTRO Arena 3
+http://www.layarku.tv/media/arenav7.m3u8
+
+#EXTINF:-1,ASTRO Arena 4
+http://www.layarku.tv/media/arenav8.m3u8
 
 #EXTINF:-1,ASTRO Nick
 http://www.layarku.tv/media/nickv6.m3u8
